@@ -7,10 +7,13 @@
 
 <h3 align="left">Competitive Programmer:</h3>
 <a href="https://codeforces.com/profile/tuhinku17"><img alt="Codeforces" src="https://img.shields.io/badge/codeforces-%235c99e6.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<br/>
+
 - **Specialist** on Codeforces<br/>
 - 69 Online Contest Attended on Codeforces<br/>
 - Codeforces Profile: [tuhinku17](https://codeforces.com/profile/tuhinku17)<br/>
 <div></div>
+<br/>
 <a href="https://codeforces.com/profile/tuhinku17"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%235b76c2.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 - **Gold Badge (Max)** on problem solving.<br/>
