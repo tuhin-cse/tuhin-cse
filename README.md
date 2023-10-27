@@ -2,7 +2,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🔭 I’m currently working on MERN Stack
-- 🌱 ILearning Never Stops 🚀
+- 🌱 Learning Never Stops 🚀
 - 💬 Ask me about **Web Development, Express.js React.js, Next.js, MongoDB**
 
 <h3 align="left">Competitive Programmer:</h3>
@@ -14,7 +14,7 @@
 - Codeforces Profile: [tuhinku17](https://codeforces.com/profile/tuhinku17)<br/>
 
 <br/>
-<a href="https://codeforces.com/profile/tuhinku17"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%235b76c2.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/tuhinabdurrazzak"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%235b76c2.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 - **Gold Badge (Max)** on problem solving.<br/>
 - 6 Star on problem solving.<br/>
