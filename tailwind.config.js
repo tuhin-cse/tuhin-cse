@@ -1,10 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
+  darkMode: "class",
+  content: ["./components/**/*.js", "./pages/**/*.js"],
   theme: {
     extend: {
       colors: {
-        dark: '#0a192f'
+        primary: 'var(--color-primary)',
+        text: 'var(--color-text)',
+        'text-alt': 'var(--color-text-alt)',
+        background: 'var(--color-background)',
+        'background-alt': 'var(--color-background-alt)',
       },
       fontFamily: {
         body: ['Nunito'],

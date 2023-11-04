@@ -2,6 +2,82 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --color-primary: #2978b5;
+    --color-text: #555;
+    --color-text-alt: #444;
+    --color-background: #fcfcfc;
+    --color-background-alt: #fff;
+  }
+
+  body[class~="dark"] {
+    --color-primary: #90a0d9;
+    --color-text: #bdbddd;
+    --color-text-alt: #cdcdff;
+    --color-background: #23283e;
+    --color-background-alt: #2a2f4c;
+  }
+}
+
+
 body {
-    @apply bg-dark;
+  @apply bg-background text-text font-sans antialiased;
+  font-family: Poppins, sans-serif;
+}
+
+.container {
+  @apply mx-auto;
+  max-width: 1200px;
+  width: 95%;
+}
+
+.link {
+  @apply text-primary relative;
+  padding-bottom: 0.3rem;
+
+  &::before {
+    @apply absolute inline w-0 bottom-0 bg-primary;
+    content: '';
+    height: 0.2em;
+    transition: width 0.2s ease-in;
+  }
+
+  &:hover::before,
+  &:focus::before {
+    width: 100%;
+  }
+}
+
+
+.btn {
+  @apply block cursor-pointer lowercase font-medium;
+  padding: 0.8em 1.4em;
+  font-size: 0.9rem;
+  transition: transform 0.2s ease-in-out;
+
+  &.btn-outline {
+    @apply text-primary border-2 border-primary relative overflow-hidden;
+    z-index: 1;
+
+    &::before {
+      @apply absolute left-0 top-0 bottom-0 bg-primary;
+      content: '';
+      right: 100%;
+      z-index: -1;
+      transition: right 0.2s ease-in-out;
+    }
+
+    &:hover,
+    &:focus {
+      @apply text-background;
+      &::before {
+        right: 0;
+      }
+    }
+  }
+}
+
+.section-title {
+  @apply uppercase mb-4 text-center text-3xl font-bold;
 }
