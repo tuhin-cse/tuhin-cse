@@ -29,7 +29,7 @@ body {
 .container {
   @apply mx-auto;
   max-width: 1200px;
-  width: 95%;
+  width: 90%;
 }
 
 .link {
@@ -37,7 +37,7 @@ body {
   padding-bottom: 0.3rem;
 
   &::before {
-    @apply absolute inline w-0 bottom-0 bg-primary;
+    @apply absolute inline w-0 bottom-0 bg-primary left-0;
     content: '';
     height: 0.2em;
     transition: width 0.2s ease-in;
@@ -79,5 +79,14 @@ body {
 }
 
 .section-title {
-  @apply uppercase mb-4 text-center text-3xl font-bold;
+  @apply uppercase mb-16 text-center text-3xl font-bold;
+}
+
+.skill {
+  @apply cursor-pointer bg-background-alt px-2 py-1.5 transition-all duration-200 ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+
+  &:hover {
+    transform: translateY(-4px);
+  }
 }
