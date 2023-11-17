@@ -49,6 +49,16 @@ body {
   }
 }
 
+.menu {
+  @apply hidden sm:flex items-center gap-6;
+  @media screen and (max-width: 639px) {
+    @apply fixed top-0 left-0 w-full h-full flex-col justify-center items-center bg-background-alt z-10;
+    &.show {
+      @apply flex;
+    }
+  }
+}
+
 
 .btn {
   @apply block cursor-pointer lowercase font-medium;
@@ -78,8 +88,12 @@ body {
   }
 }
 
+.section {
+  @apply pt-4 md:pt-20 pb-12;
+}
+
 .section-title {
-  @apply uppercase mb-16 text-center text-3xl font-bold;
+  @apply uppercase mb-12 text-center text-3xl font-bold;
 }
 
 .skill {
@@ -88,5 +102,15 @@ body {
 
   &:hover {
     transform: translateY(-4px);
+  }
+}
+
+
+.project {
+  @apply bg-background-alt p-5 transition-all duration-200 ease-in-out rounded-sm flex flex-col gap-4 justify-between;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+
+  &:hover {
+    transform: translateY(-7px);
   }
 }

@@ -1,9 +1,10 @@
 import {useTheme} from "../../contexts/theme";
 import {FaGithub, FaLinkedin} from "react-icons/fa";
+import profile from "../../data/profile";
 
 const About = () => {
     return (
-        <div className="pt-12 md:pt-28 pb-12 container">
+        <div className="container section" id="s-about">
             <h3 className="section-title">About me</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="flex flex-col gap-3 text-center md:text-left">
@@ -16,10 +17,13 @@ const About = () => {
                         My journey started in 2017. From 2017 to 2019 i was involved in competitive programming. I have
                         participated in many programming contest online and offline. I have solved more than 700
                         problems
-                        in different online judges. All my submissions are available on <a className="link">StopTalk</a>
+                        in different online judges. All my submissions are available on&nbsp;
+                        <a href={profile.stopStalk} target="_blank" className="link">StopTalk.</a>
                     </p>
-                    <p>I was active in <a className="link">Codeforces</a>, <a className="link">Hackerrank</a> and <a
-                        className="link">UVa Online Judge</a>.
+                    <p>I was active in&nbsp;
+                        <a href={profile.codeforces} target="_blank" className="link">Codeforces</a>,&nbsp;
+                        <a href={profile.hackerrank} target="_blank" className="link">Hackerrank</a> and&nbsp;
+                        <a href={profile.uva} target="_blank" className="link">UVa Online Judge</a>.
                         Currently i am working as Full Stack Developer. My skills are</p>
 
                     <div className="flex flex-wrap justify-center md:justify-start gap-2.5 mt-4">
