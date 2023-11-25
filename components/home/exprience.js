@@ -32,7 +32,7 @@ const Experience = () => {
         {
             period: "JAN 2020 - OCT 2020",
             company: "Puredevs",
-            role: "React Developer",
+            role: "Internship",
             descriptions: [
                 "Analyzing user needs and requirements to determine the functionality and features required for a custom WordPress plugin.",
                 "Designing and developing custom WordPress plugins using PHP, JavaScript, and WordPress APIs.",
