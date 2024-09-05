@@ -18,14 +18,15 @@
 
 - **Gold Badge (Max)** on problem solving.<br/>
 - 6 Star on problem solving.<br/>
-- Problem Solving (Basic)Certificate (Aug, 2020): [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b629d3260931)<br/>
-- Problem Solving (Intermediate) Certificate (Sep, 2020): [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/ea254b9278b7)<br/>
-- JavaScript (Basic) Certificate (Aug, 2020): [JavaScript (Basic)](https://www.hackerrank.com/certificates/bf8a77554ed8)<br/>
+- Problem Solving (Basic)Certificate (Aug,
+  2020): [Problem Solving (Basic)](https://www.hackerrank.com/certificates/b629d3260931)<br/>
+- Problem Solving (Intermediate) Certificate (Sep,
+  2020): [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/ea254b9278b7)<br/>
+- JavaScript (Basic) Certificate (Aug,
+  2020): [JavaScript (Basic)](https://www.hackerrank.com/certificates/bf8a77554ed8)<br/>
 - React (Basic) Certificate (Aug, 2020): [React (Basic)](https://www.hackerrank.com/certificates/84e7cc58eb00)<br/>
 - Python (Basic) Certificate (Aug, 2020): [Python (Basic)](https://www.hackerrank.com/certificates/8704863a7090)<br/>
 - Hackerrank Profile: [tuhinabdurrazzak](https://www.hackerrank.com/profile/tuhinabdurrazzak)<br/>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -36,6 +37,7 @@
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
+<img alt="GO" src="https://img.shields.io/badge/Go-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2330b23a.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-0b1b1f?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-4b6a9f?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
@@ -61,8 +63,9 @@
 <h3 align="left">Languages :</h3>
 <div align="left">
  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>   
+ <img alt="GO" src="https://img.shields.io/badge/Go-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E"/>   
  <img alt="Rust" src="https://img.shields.io/badge/rust-%23ED8B00.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
