@@ -5,7 +5,7 @@ const profile = {
     hackerrank: "https://www.hackerrank.com/profile/tuhinabdurrazzak",
     stopStalk: "https://www.stopstalk.com/user/profile/Sketch",
     uva: "https://uhunt.onlinejudge.org/id/889879",
-    resume: "/resume-md.a.razzak.pdf",
+    resume: "/cv-md.a.razzak.pdf",
     email: "md.a.razzak.17@gmail.com"
 }
 

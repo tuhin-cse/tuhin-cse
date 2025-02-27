@@ -18,7 +18,7 @@ const Hero = () => {
                     the development process and reuse code effectively.</p>
                 <div className="flex justify-center items-center gap-6">
                     <a href={profile.resume} target="_blank" className="btn btn-outline">
-                        Resume
+                        CV
                     </a>
 
                     <div className="flex gap-4 justify-center pt-2">
