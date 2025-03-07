@@ -13,7 +13,7 @@ const Hero = () => {
                 <p className="max-w-xl mx-auto text-sm sm:text-base">
                     A MERN Stack Developer with 4 years of experience,
                     I have specialized in creating efficient, scalable,
-                    and robust web applications using Go, Gin, Node.js, Express.js, Nest.js,
+                    and robust web applications using Python, Go, Node.js, Nest.js,
                     React, and Next.js. My expertise in JavaScript, both on
                     the front end and back end, has allowed me to streamline
                     the development process and reuse code effectively.</p>

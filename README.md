@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 Learning Never Stops 🚀
-- 💬 Ask me about **Web Development, Express.js React.js, Next.js, MongoDB**
+- 💬 Ask me about **Web Development, API Development, Ai Driven Solutions**
 
 <h3 align="left">Competitive Programmer:</h3>
 <a href="https://codeforces.com/profile/tuhinku17"><img alt="Codeforces" src="https://img.shields.io/badge/codeforces-%235c99e6.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
@@ -32,11 +32,11 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/artuhin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:md.a.razzak.17@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/j5nfXGCj"><img alt="Telegram" src="https://img.shields.io/badge/Discord-2CA5E0?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img alt="GO" src="https://img.shields.io/badge/Go-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2330b23a.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-0b1b1f?style=for-the-badge&logo=express&logoColor=white"/>
@@ -55,6 +55,10 @@
 
 <img alt="antd" src="https://img.shields.io/badge/Ant%20Design-202875?style=for-the-badge&logo=antdesign&logoColor=white"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img alt="shadcn" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white"/>
+
+
+
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
