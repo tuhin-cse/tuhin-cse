@@ -6,10 +6,10 @@ const Experience = () => {
             company: "Appstick",
             role: "Full Stack Developer",
             descriptions: [
-                "Designing and developing user-friendly web applications using the MERN stack.",
-                "Creating and maintaining databases using MongoDB.",
-                "Building and managing RESTful APIs using Express.js.",
-                "Developing and implementing web-based user interfaces using React.js.",
+                "Designing and developing user-friendly web applications using the Python, Go and Nodejs.",
+                "Creating and maintaining databases using  MongoDB.",
+                "Building and managing RESTful APIs using Python, Go and Nodejs.",
+                "Developing and implementing web-based user interfaces using React.js and Next.js.",
                 "Integrating front-end components with back-end services.",
                 "Testing and debugging applications to ensure their quality and performance.",
                 "Deploying applications to cloud-based platforms such as AWS or Heroku."
@@ -20,7 +20,7 @@ const Experience = () => {
             company: "Andit",
             role: "React Developer",
             descriptions: [
-                "Designing and developing user-friendly web interfaces using React.js.",
+                "Designing and developing user-friendly web interfaces using React.js and Next.js",
                 "Building reusable components and libraries for future use.",
                 "Implementing responsive web design principles to ensure that the application is optimized for all devices and screen sizes.",
                 "Writing clean, efficient, and maintainable code that adheres to industry standards.",

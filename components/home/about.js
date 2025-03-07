@@ -27,7 +27,7 @@ const About = () => {
                         Currently i am working as Full Stack Developer. My skills are</p>
 
                     <div className="flex flex-wrap justify-center md:justify-start gap-2.5 mt-4">
-                        {['Go', 'Gin', 'Gorm', 'Node.js', 'Express.js', 'React.js', 'Next.js', 'MongoDB', 'Tailwindcss', 'Html', 'CSS',
+                        {[ 'Python', 'Fast API', 'Django', 'Go', 'Gin', 'Gorm', 'Node.js', 'Express.js', 'React.js', 'Next.js', 'MongoDB', 'Tailwindcss', 'Html', 'CSS',
                             'JavaScript', 'Ant Design', 'Material UI', 'Bootstrap', 'Sass', 'Redux', 'React Native',
                             'Docker', 'AWS', 'Digital Ocean'].map((item, index) => (
                             <span key={index}
